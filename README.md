@@ -1,2 +1,1 @@
-# Glowing-
-Skincare Website using HTML,CSS &amp; JS
+# Glowing-Skincare Website using HTML,CSS &amp; JS
